@@ -4,5 +4,8 @@ title: "about"
 ---
 
 Website that features my family pets. 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 6577b85f993c05a3a442ba2941d35831e543f2b2
