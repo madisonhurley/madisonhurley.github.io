@@ -1,8 +1,11 @@
-name: "my-website"
+name: "Pet-website"
 navbar:
-  title: "My Website"
+  title: "My Family Pets"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+output:
+  html_document:
+    theme: darkly

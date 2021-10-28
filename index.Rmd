@@ -1,0 +1,29 @@
+---
+title: "The Family Pets"
+---
+
+This is Tyler, he is a 10 year old Maltese
+![](files/tyler.jpg)
+
+
+
+This is Chloe, she is a 4 year old Australian Shepherd
+![](files/chloe.jpg)
+
+
+
+This is Princess a 6 year old tortoiseshell cat
+![](files/princess.jpg)
+
+
+
+This is Ziva an 8 year old tortoiseshell cat
+![](files/ziva.jpg)
+
+
+
+This is Gus and Barnaby - the family hedgehogs
+![](files/gus.jpg)
+![](files/barnaby.jpg)
+
+
